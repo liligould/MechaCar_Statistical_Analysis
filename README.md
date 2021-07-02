@@ -14,7 +14,7 @@ The slope of the linear model is not considered to be zero because the p value i
 
 Based on R squared of 0.7149 this means that there is a 71 percent chance the model predicts the mpg correctly. That is majority so I would say it is effective.
 
-Linear Regression Results
+### Linear Regression Results
 
 <img width="543" alt="Screen Shot 2021-07-02 at 4 12 24 PM" src="https://user-images.githubusercontent.com/80358062/124324046-4d8ec180-db50-11eb-8424-dfd367c27c4b.png">
 
